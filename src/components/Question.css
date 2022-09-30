@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+button{
+    background-color: indigo;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+    position: fixed;
+}
+.answer{
+    color: green;
+    font-weight: bold;
+    margin: 10px;
+}
+.question{
+    padding-left: 10px;
+}
